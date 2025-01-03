@@ -93,6 +93,7 @@ A comprehensive guide covering different rooting methods, decision-making and di
 - **[Hail](https://github.com/aistra0528/Hail)** - Disable / Hide / Suspend / Uninstall Android apps. `FOSS`
 - **[LeanData](https://play.google.com/store/apps/details?id=com.teqtic.leandata&hl=en_IN&gl=US)** - Automatically manages the power-hungry radios on your device while the screen is off to significantly lengthen battery life. `Proprietary`
 - **[Zygisk Detach](https://github.com/j-hc/zygisk-detach)** - Zygisk module to detach installed apps from Play Store, hooking binder. `FOSS` `[M]`
+- **[Blocker](https://github.com/lihenggui/blocker)** - blocker components and trackers in apps. `FOSS`
 
 #### App Markets
 - **[Aurora Store](https://github.com/whyorean/AuroraStore)** - A Google Play Store client to search, view app details, and download APKs directly to your device. `FOSS`
@@ -146,7 +147,7 @@ Archived Chats to official WhatsApp. `FOSS` `[LP]`
 ### Battery Management
 - **[AccA](https://github.com/MatteCarra/AccA)** - Advanced Charging Controller app. `FOSS`
 - **[Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru)** - Battery optimization and monitoring. `Proprietary`
-- **[Xtreme-Battery-Saver](https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver)** - An extreme battery saver Magisk Module for users who want to really stretch their battery life. `FOSS` `[M]`
+- **[Xtreme-Battery-Saver](https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver)** - An extreme battery saver Magisk Module for users who want to really stretch their battery life. - **[SaverTuner](https://codeberg.org/s1m/savertuner)** - save battery according to your level of preference. `FOSS` 
 
 ### Cleaning Apps
 - **[DirCleaner](https://www.dircleaner.com/)** - A simple and practical cleaning tool. `Proprietary`
