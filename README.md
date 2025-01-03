@@ -251,6 +251,7 @@ Archived Chats to official WhatsApp. `FOSS` `[LP]`
 - **[Thanox](https://apt.izzysoft.de/fdroid/index/apk/github.tornaco.android.thanos)** - A system management tool that provide convenient functions like application startup management, background management, permission management etc. `FOSS` `[LP]`
 - **[Universal GMS Doze](https://github.com/gloeyisk/universal-gms-doze)** - Patches Google Play services app and certain processes/services to be able to use battery optimization. `FOSS` `[M]`
 - **[Uperf-Game-Turbo](https://github.com/yinwanxi/Uperf-Game-Turbo)** - Userspace performance controller for Android. `FOSS` `[M]`
+- **[PerfMTK](https://github.com/JUANIMAN/PerfMTK)** - options for better performance or longer battery life in android with mediatek. `FOSS` `[M]`
 
 
 ### Termux
