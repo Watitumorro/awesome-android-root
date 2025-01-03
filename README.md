@@ -147,7 +147,8 @@ Archived Chats to official WhatsApp. `FOSS` `[LP]`
 ### Battery Management
 - **[AccA](https://github.com/MatteCarra/AccA)** - Advanced Charging Controller app. `FOSS`
 - **[Battery Guru](https://play.google.com/store/apps/details?id=com.paget96.batteryguru)** - Battery optimization and monitoring. `Proprietary`
-- **[Xtreme-Battery-Saver](https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver)** - An extreme battery saver Magisk Module for users who want to really stretch their battery life. - **[SaverTuner](https://codeberg.org/s1m/savertuner)** - save battery according to your level of preference. `FOSS` 
+- **[Xtreme-Battery-Saver](https://github.com/Magisk-Modules-Alt-Repo/Xtreme-Battery-Saver)** - An extreme battery saver Magisk Module for users who want to really stretch their battery life.
+- **[SaverTuner](https://codeberg.org/s1m/savertuner)** - save battery according to your level of preference. `FOSS` 
 
 ### Cleaning Apps
 - **[DirCleaner](https://www.dircleaner.com/)** - A simple and practical cleaning tool. `Proprietary`
